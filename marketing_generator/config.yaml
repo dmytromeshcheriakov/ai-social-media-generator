@@ -1,0 +1,37 @@
+# Metro Testing Credentials
+credentials:
+  usernames:
+    reply_account_1:
+      email: reply_account_1
+      name: Reply_Name_1
+      password: $2b$12$4mCOCgBpId1PQ4gnQ/MhmuYE41jMZVfCSnQXEqKkG.GBlw0gzzuaW # Plain password: abc
+    reply_account_2:
+      email: reply_account_2
+      name: Reply_Name_2
+      password: $2b$12$rNL5Q5Wlsk0jx8bQQHdqVuzJBiTEEV4fBo30dwjivM6CCAhxA712K # Plain password: def
+cookie:
+  expiry_days: 30
+  key: metro_mvp
+  name: metro_mvp_cookie
+preauthorized:
+  emails:
+
+
+# # Original Credentials
+# credentials:
+#   usernames:
+#     marc.pricken93@gmail.com:
+#       email: marc.pricken93@gmail.com
+#       name: Marc Pricken Gmail
+#       password: $2b$12$4mCOCgBpId1PQ4gnQ/MhmuYE41jMZVfCSnQXEqKkG.GBlw0gzzuaW # Plain password: abc
+#     m.pricken@reply.de:
+#       email: m.pricken@reply.de
+#       name: Marc Norbert Pricken Reply
+#       password: $2b$12$rNL5Q5Wlsk0jx8bQQHdqVuzJBiTEEV4fBo30dwjivM6CCAhxA712K # Plain password: def
+# cookie:
+#   expiry_days: 30
+#   key: metro_mvp # Must be string
+#   name: metro_mvp_cookie
+# preauthorized:
+#   emails:
+#   - marc.pricken93@gmail.com
