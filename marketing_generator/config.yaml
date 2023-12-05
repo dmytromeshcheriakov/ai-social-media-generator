@@ -9,6 +9,10 @@ credentials:
       email: reply_account_2
       name: Reply_Name_2
       password: $2b$12$rNL5Q5Wlsk0jx8bQQHdqVuzJBiTEEV4fBo30dwjivM6CCAhxA712K # Plain password: def
+    reply_account_3:
+      email: reply_account_3
+      name: Reply_Name_3
+      password: $2b$12$rNL5Q5Wlsk0jx8bQQHdqVuzJBiTEEV4fBo30dwjivM6CCAhxA712K # Plain password: def
 cookie:
   expiry_days: 30
   key: metro_mvp
